@@ -1,0 +1,43 @@
+distributor:
+    routes:
+        039e9114-5532-4d05-a91f-f044d2d2becf:
+            uuid: 039e9114-5532-4d05-a91f-f044d2d2becf
+            weight: 10000
+            value:
+                type: request
+                pass: ''
+                config:
+                    request:
+                        enabled: true
+                        async: inherit
+                        disableStorage: inherit
+                        enableDataProviders:
+                            type: all
+                            config:
+                                all: {  }
+                        gate:
+                            type: 'true'
+                            config:
+                                'true': {  }
+                        data:
+                            fieldMap:
+                                fields: {  }
+                            passthroughFields:
+                                enabled: false
+                            ignoreEmptyFields:
+                                enabled: true
+                            excludeFields:
+                                fields: {  }
+                            prefix:
+                                prefix: ''
+                                action: add
+                        url: ''
+                        cookies: {  }
+                        headers: {  }
+metaData:
+    name: Request Route
+    version:
+        core: 1.0.0
+        distributor-core: 1.0.0
+        distributor-request: 1.0.0
+    includes: {  }
