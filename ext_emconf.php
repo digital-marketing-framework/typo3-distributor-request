@@ -1,8 +1,8 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'Digital Marketing Framework - Distributor - Request',
-    'description' => 'Send form data to different target systems',
+    'title' => 'Digital Marketing Framework - Distributor - HTTP Request',
+    'description' => 'Send form data to different target systems via HTTP requests',
     'category' => 'be',
     'author_email' => 'info@mediatis.de',
     'author_company' => 'Mediatis AG',

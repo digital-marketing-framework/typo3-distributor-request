@@ -1,11 +1,10 @@
 {
     "name": "digital-marketing-framework/typo3-distributor-request",
-    "description": "Digital Marketing Framework - Distributor - Request",
+    "description": "Digital Marketing Framework - Distributor - HTTP Request",
     "license": "GPL-2.0-or-later",
     "type": "typo3-cms-extension",
     "keywords": [
         "TYPO3",
-        "extension",
         "marketing",
         "framework",
         "data",
