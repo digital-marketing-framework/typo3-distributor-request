@@ -8,6 +8,6 @@ class StaticConfigurationDocumentEventListener extends OriginalStaticConfigurati
 {
     protected function getExtensionKey(): string
     {
-        return 'digitalmarketingframework_distributor_request';
+        return 'dmf_distributor_request';
     }
 }
