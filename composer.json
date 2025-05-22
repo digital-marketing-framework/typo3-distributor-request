@@ -1,6 +1,6 @@
 {
     "name": "digital-marketing-framework/typo3-distributor-request",
-    "description": "Digital Marketing Framework - Distributor - HTTP Request",
+    "description": "Anyrel - Distributor - HTTP Request",
     "license": "GPL-2.0-or-later",
     "type": "typo3-cms-extension",
     "keywords": [
@@ -24,7 +24,7 @@
     ],
     "homepage": "https://www.mediatis.de",
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "digital-marketing-framework/distributor-request": "dev-feature/MFR-136-t3-13",
         "digital-marketing-framework/typo3-distributor-core": "dev-feature/MFR-136-t3-13",
         "typo3/cms-core": "^12.4 || ^13.4"

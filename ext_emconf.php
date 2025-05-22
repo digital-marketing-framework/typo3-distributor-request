@@ -1,7 +1,7 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'Digital Marketing Framework - Distributor - HTTP Request',
+    'title' => 'Anyrel - Distributor - HTTP Request',
     'description' => 'Send form data to different target systems via HTTP requests',
     'category' => 'be',
     'author_email' => 'info@mediatis.de',
